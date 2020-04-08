@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+body  {
+  background-color: #c3cfe2;
+  font-family: 'Lato', sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  position: absolute;
+  overflow: hidden;
+  right: 0;
+  bottom: 30px;
+}
+
+li {
+  display: block;
+  width: 250px;
+  position: relative;
+  right: -180px;
+  transition: right .3s ease-in-out;
+}
+
+a {
+  color: white;
+  padding-left: 10px;
+}
+
+li:hover {
+  right: 0;
+}
+
+/* menu colors */
+.social-media.blog {
+  background-color: #e17b77;
+  color: white;
+}
+
+.social-media.facebook {
+  background-color: #3b5998;
+  color: white;
+}
+
+.social-media.twitter {
+  background-color: #00aced;
+  color: white;
+}
+
+.social-media.github {
+  background-color: #333;
+  color: white;
+}
+
+.social-media.linkedin {
+  background-color: #007bb6;
+  color: white;
+}
+
+/* icons */
+
+i {
+  padding: 20px;
+  font-size: 2em;
+  display: inline-block;
+}
+
+.fa-laptop-code::before {
+  content: "\f5fc";
+}
+.fa-twitter::before {
+  content: "\f099";
+}
+.fa-linkedin-in::before {
+  content: "\f0e1";
+}
+.fa-facebook-f::before {
+  content: "\f39e";
+}
+.fa-github::before {
+  content: "\f09b";
+}
