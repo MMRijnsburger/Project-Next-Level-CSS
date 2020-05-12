@@ -68,3 +68,49 @@ Tip: gebruik: `transition: transform .3s ease-in-out;`
 **Design & interactie:**
 Dat groene aan de rechterkant is een bureaublad, je ziet dat de knoppen tegen de rand van de browser aan staan.
 
+**Kleuren:** 
+
+.social-media.blog {
+	background-color: #e17b77;
+}
+
+.social-media.facebook {
+	background-color: #3b5998;
+}
+
+.social-media.twitter {
+	background-color: #00aced;
+}
+
+.social-media.github {
+	background-color: #333;
+}
+
+.social-media.linkedin {
+	background-color: #007bb6;
+}
+
+**Icons:**
+
+Je kunt de icons opzoeken en ze als image in je CSS zetten. Dat is correct en prima. 
+
+Next level is iconen toevoegen met ::before met bijvoorbeeld: font awesome:
+
+Je hebt dan de volgende Icon codes nodig:
+
+.fa-laptop-code::before {
+    content: "\f5fc";
+}
+.fa-twitter::before {
+    content: "\f099";
+}
+.fa-linkedin-in::before {
+    content: "\f0e1";
+}
+.fa-facebook-f::before {
+    content: "\f39e";
+}
+.fa-github::before {
+    content: "\f09b";
+}
+
