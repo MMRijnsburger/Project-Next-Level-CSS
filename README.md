@@ -6,8 +6,8 @@ Screenshot Mijn versies van Level 1 - Testimonial / Level 2 - Portfolio Grid / L
 ![Screenshot](./images/ScreenshotLevels.png)
 
 Bekijk de live versie van de Testimonial: https://nextlevelcsslevel1.netlify.app/
-Bekijk de live versie van het Portfolio Grid: 
-Bekijk de live versie van de Social Media Buttons: 
+Bekijk de live versie van het Portfolio Grid: https://nextlevelcsslevel2.netlify.app/
+Bekijk de live versie van de Social Media Buttons: https://nextlevelcsslevel3.netlify.app/
 
 Met dit project heb ik mijn CSS skills tot een nieuw level gebracht. 
 De opdracht was om de bovenstaande voorbeeld designs zo goed mogelijk na te maken.
