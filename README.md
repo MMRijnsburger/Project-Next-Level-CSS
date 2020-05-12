@@ -1,7 +1,7 @@
 # **Project Next Level CSS**
 Winc Academy Project - Week 4: Next Level CSS
 
-Screenshot Mijn versies van Level 1 - Testimonial / Level 2 - Portfolio Grid / Level 3 - Social Media Buttons
+Screenshot van Level 1 - Testimonial / Level 2 - Portfolio Grid / Level 3 - Social Media Buttons
 
 ![Screenshot](./images/ScreenshotLevels.png)
 
@@ -10,11 +10,13 @@ Screenshot Mijn versies van Level 1 - Testimonial / Level 2 - Portfolio Grid / L
 - Bekijk de live versie van de Social Media Buttons: https://nextlevelcsslevel3.netlify.app/
 
 Met dit project heb ik mijn CSS skills tot een nieuw level gebracht. 
-De opdracht was om de bovenstaande voorbeeld designs zo goed mogelijk na te maken.
+De opdracht was om de voorbeeld designs zo goed mogelijk na te maken.
 
 # **Informatie over de opdrachten**
 
-**Level 1 - Testimonial**
+Hieronder de informatie over de opdrachten waarmee ik aan de slag ben gegaan.
+
+## Level 1 - Testimonial ##
 
 Screenshot Voorbeeld Level 1 - Testimonial
 
@@ -26,7 +28,7 @@ We hebben de volgende kleuren gebruikt:
 - Achtergrond pagina **grijs**: #c3cfe2
 - Achtergrondkleur tekst **wit**: #fff
 
-**Level 2 - Portfolio Grid**
+## Level 2 - Portfolio Grid ##
 
 Screenshot Voorbeeld Level 2 - Portfolio Grid
 
@@ -53,7 +55,7 @@ Er komt een button tevoorschijn on hover. De foto verdwijnt, smoothly.
 
 Je hebt hier geen JavaScript voor nodig. Denk aan de pseudo classes :hover.
 
-**Level 3 - Social Media Buttons**
+## Level 3 - Social Media Buttons ##
 
 Screenshot Voorbeeld Level 3 - Social Media Buttons
 
